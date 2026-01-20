@@ -1,0 +1,27 @@
+/* CSS rules for Card. */
+
+.card {
+    background-color: #333333;
+    padding: 6px;
+    padding-bottom: 25px;
+    width: fit-content;
+    max-width: 225px;
+    border-radius: 25px;
+    border: 2px solid black;
+    overflow: hidden;
+}
+
+img {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+h3 {
+    font-weight: 700;
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+p>span {
+    font-weight: 700;
+}
