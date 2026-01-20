@@ -1,5 +1,9 @@
 # Moment 1 React Introduktion
 
+## Länk till webbplatsen
+Jag vet att banner bilden har lite förstor filstorlek, men det tar iaf typ ett par sekunder.
+[Netlify](https://dt210-moment1-anime.netlify.app/)
+
 ## Beskrivning
 Projektet består av en sida som listar animes.
 
